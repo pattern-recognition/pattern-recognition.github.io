@@ -4,11 +4,7 @@ Machine Learning is about building programs with tunable parameters (typically a
 
 
 ### References
-[Introduction to Scikit-Learn](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/17_SklearnIntro)
-
-pattern-recognition.github.io
-=============================
-
-You can see the web page at http://pattern-recognition.github.io 
+* [Introduction to Scikit-Learn](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/17_SklearnIntro)
+* http://pattern-recognition.github.io 
 
 
